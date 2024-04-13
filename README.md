@@ -44,6 +44,7 @@ This is a simple console-based application built using Java and Hibernate to man
 - Implement password encryption for improved security.
 - Add support for more password management features.
 - Enhance user interface for better user experience.
+## Console Output
 ```Welcome
 enter 
 1.Resister 
